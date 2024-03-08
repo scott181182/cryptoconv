@@ -31,3 +31,4 @@ buys 0.0025 BTC, and 30% of our holdings is $30, which buys 0.016 ETH.
 While the original prompt was specifically for a Go program, I have taken the liberty to setup this repository to handle multiple languages, with pertinent instructions in each subfolder. Enjoy!
 
 - [Go Implementation](./go)
+- [Rust Implementation](./rust)
